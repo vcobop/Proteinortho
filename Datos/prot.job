@@ -1,0 +1,6 @@
+#!/bin/bash                      
+
+echo -n "starting the job on "
+hostname
+cd /scr/hercules1san/vcobop/Proteinortho/
+time bash protein.sh

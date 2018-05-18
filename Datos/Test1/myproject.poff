@@ -1,0 +1,4 @@
+# Species	Genes	Alg.-Conn.	ciin_candidates_new.fa	cisa_candidates_new.fa	clob_candidates_new.fa	haro_candidates_new.fa	odi_candidates_new.fa	pevi_candidates_new.fa	sato_candidates_new.fa
+2	2	1	intestinalis_Ciona_cin10_1106299-1106400_+	*	*	MTP2014_Harore_S67_157877-157772_-	*	*	*
+2	2	1	*	savignyi_Ciona_csa6_2357935-2357835_-	masked_coblonga_clob1549330_88223-88122_-	*	*	*	*
+2	2	1	intestinalis_Ciona_cin14_5852686-5852789_+	savignyi_Ciona_csa39_1053208-1053106_-	*	*	*	*	*

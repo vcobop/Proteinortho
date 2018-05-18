@@ -1,0 +1,49 @@
+# file_a	file_b
+# a	b	evalue_ab	bitscore_ab	evalue_ba	bitscore_ba	same_strand	simscore
+# pevi_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# ciin_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# haro_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	ciin_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# haro_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	haro_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# ciin_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# haro_candidates_new.fa	ciin_candidates_new.fa
+# Scores: 0	3	0.453010	2.051304
+MTP2014_Harore_S67_157877-157772_-	intestinalis_Ciona_cin10_1106299-1106400_+	9e-16	67.6	7e-16	67.6	-1	0.226504945879
+# odi_candidates_new.fa	ciin_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	haro_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	haro_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	clob_candidates_new.fa
+# Scores: 0	3	0.421454	2.044406
+savignyi_Ciona_csa6_2357935-2357835_-	masked_coblonga_clob1549330_88223-88122_-	1e-14	63.9	8e-15	63.9	1	0.210726825098
+# odi_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	pevi_candidates_new.fa
+# Scores: 0	6	0.737059	4.067907
+savignyi_Ciona_csa18_1114148-1114234_+	masked_pviridis_pevi2663009_16422-16327_-	9e-13	58.4	3e-13	58.4	-1	0.184264771769
+savignyi_Ciona_csa18_1114148-1114234_+	masked_pviridis_pevi2773763_6283-6378_+	9e-13	58.4	3e-13	58.4	1	0.184264771769
+# cisa_candidates_new.fa	ciin_candidates_new.fa
+# Scores: 0	3	0.553812	2.076677
+savignyi_Ciona_csa39_1053208-1053106_-	intestinalis_Ciona_cin14_5852686-5852789_+	4e-19	78.7	3e-19	78.7	-1	0.276906140655
+# cisa_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	clob_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	cisa_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000

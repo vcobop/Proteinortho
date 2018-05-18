@@ -1,0 +1,44 @@
+# file_a	file_b
+# a	b	evalue_ab	bitscore_ab	evalue_ba	bitscore_ba	same_strand	simscore
+# odi_candidates_new.fa	ciin_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	ciin_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	haro_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	ciin_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# haro_candidates_new.fa	ciin_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	haro_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	haro_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	cisa_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	clob_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	clob_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# haro_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# ciin_candidates_new.fa	pevi_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# odi_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# cisa_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# haro_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# clob_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# ciin_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000
+# pevi_candidates_new.fa	sato_candidates_new.fa
+# Scores: -1	0	0.000000	0.000000

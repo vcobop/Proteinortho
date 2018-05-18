@@ -1,0 +1,30 @@
+# file_a	file_b
+# a	b	evalue_ab	bitscore_ab	evalue_ba	bitscore_ba
+# pevi_candidates_new.fa	sato_candidates_new.fa
+# ciin_candidates_new.fa	sato_candidates_new.fa
+# haro_candidates_new.fa	sato_candidates_new.fa
+# clob_candidates_new.fa	sato_candidates_new.fa
+# clob_candidates_new.fa	pevi_candidates_new.fa
+# clob_candidates_new.fa	ciin_candidates_new.fa
+# haro_candidates_new.fa	pevi_candidates_new.fa
+# clob_candidates_new.fa	haro_candidates_new.fa
+# ciin_candidates_new.fa	pevi_candidates_new.fa
+# haro_candidates_new.fa	ciin_candidates_new.fa
+MTP2014_Harore_S67_157877-157772_-	intestinalis_Ciona_cin10_1106299-1106400_+	9e-16	67.6	7e-16	67.6
+# odi_candidates_new.fa	ciin_candidates_new.fa
+# cisa_candidates_new.fa	haro_candidates_new.fa
+# odi_candidates_new.fa	haro_candidates_new.fa
+# cisa_candidates_new.fa	clob_candidates_new.fa
+savignyi_Ciona_csa6_2357935-2357835_-	masked_coblonga_clob1549330_88223-88122_-	1e-14	63.9	8e-15	63.9
+# odi_candidates_new.fa	pevi_candidates_new.fa
+# cisa_candidates_new.fa	pevi_candidates_new.fa
+savignyi_Ciona_csa18_1114148-1114234_+	masked_pviridis_pevi2663009_16422-16327_-	9e-13	58.4	3e-13	58.4
+savignyi_Ciona_csa18_1114148-1114234_+	masked_pviridis_pevi2765441_4206-4301_+	9e-13	58.4	3e-13	58.4
+savignyi_Ciona_csa18_1114148-1114234_+	masked_pviridis_pevi2773762_6408-6503_+	9e-13	58.4	3e-13	58.4
+savignyi_Ciona_csa18_1114148-1114234_+	masked_pviridis_pevi2773763_6283-6378_+	9e-13	58.4	3e-13	58.4
+# cisa_candidates_new.fa	ciin_candidates_new.fa
+savignyi_Ciona_csa39_1053208-1053106_-	intestinalis_Ciona_cin14_5852686-5852789_+	4e-19	78.7	3e-19	78.7
+# cisa_candidates_new.fa	sato_candidates_new.fa
+# odi_candidates_new.fa	sato_candidates_new.fa
+# odi_candidates_new.fa	clob_candidates_new.fa
+# odi_candidates_new.fa	cisa_candidates_new.fa

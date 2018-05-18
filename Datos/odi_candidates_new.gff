@@ -1,0 +1,9 @@
+scaffold_107	blast	CDS	11006	10927	.	-	.	ID=reference_odioica_scaffold_107_11006-10927_-;
+scaffold_108	blast	CDS	89110	88932	.	-	.	ID=reference_odioica_scaffold_108_89110-88932_-;
+scaffold_15	blast	CDS	673102	673179	.	+	.	ID=reference_odioica_scaffold_15_673102-673179_+;
+scaffold_486	blast	CDS	5083	4993	.	-	.	ID=reference_odioica_scaffold_486_5083-4993_-;
+scaffold_68	blast	CDS	107213	107020	.	-	.	ID=reference_odioica_scaffold_68_107213-107020_-;
+scaffold_87	blast	CDS	121437	121524	.	+	.	ID=reference_odioica_scaffold_87_121437-121524_+;
+scaffold_87	blast	CDS	121524	121437	.	-	.	ID=reference_odioica_scaffold_87_121524-121437_-;
+scaffold_9	blast	CDS	1330330	1330222	.	-	.	ID=reference_odioica_scaffold_9_1330330-1330222_-;
+scaffold_92	blast	CDS	78913	78832	.	-	.	ID=reference_odioica_scaffold_92_78913-78832_-;

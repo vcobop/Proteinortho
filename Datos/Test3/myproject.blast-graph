@@ -1,0 +1,23 @@
+# file_a	file_b
+# a	b	evalue_ab	bitscore_ab	evalue_ba	bitscore_ba
+# odi_candidates_new.fa	ciin_candidates_new.fa
+# cisa_candidates_new.fa	ciin_candidates_new.fa
+# clob_candidates_new.fa	haro_candidates_new.fa
+# odi_candidates_new.fa	pevi_candidates_new.fa
+# clob_candidates_new.fa	ciin_candidates_new.fa
+# haro_candidates_new.fa	ciin_candidates_new.fa
+# cisa_candidates_new.fa	haro_candidates_new.fa
+# odi_candidates_new.fa	haro_candidates_new.fa
+# odi_candidates_new.fa	cisa_candidates_new.fa
+# odi_candidates_new.fa	clob_candidates_new.fa
+# cisa_candidates_new.fa	clob_candidates_new.fa
+# cisa_candidates_new.fa	pevi_candidates_new.fa
+# clob_candidates_new.fa	pevi_candidates_new.fa
+# haro_candidates_new.fa	pevi_candidates_new.fa
+# ciin_candidates_new.fa	pevi_candidates_new.fa
+# odi_candidates_new.fa	sato_candidates_new.fa
+# cisa_candidates_new.fa	sato_candidates_new.fa
+# haro_candidates_new.fa	sato_candidates_new.fa
+# clob_candidates_new.fa	sato_candidates_new.fa
+# ciin_candidates_new.fa	sato_candidates_new.fa
+# pevi_candidates_new.fa	sato_candidates_new.fa
